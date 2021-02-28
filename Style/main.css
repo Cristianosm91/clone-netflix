@@ -35,7 +35,7 @@ header .logo{
 header nav a{
     text-decoration: none;
     color: #aaa;
-    margin-right: 10px;
+    margin-right: 15px;
 
 }
 
@@ -109,7 +109,7 @@ header nav a:hover{
     margin-top: 2px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
-.carrossel-filmes .teste{
+.carrossel-filmes .menu{
     background-color: black;
     border: none;
     color: white;
@@ -129,7 +129,7 @@ header nav a:hover{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
-.carrossel-series .teste{
+.carrossel-series .menu{
     background-color: black;
     border: none;
     color: white;
@@ -151,7 +151,7 @@ header nav a:hover{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
-.carrossel-documentarios .teste{
+.carrossel-documentarios .menu{
     background-color: black;
     border: none;
     color: white;
@@ -168,6 +168,44 @@ header nav a:hover{
     width: 100%;
     display: block;
 
+}
+
+/*Bombando*/
+.carrossel-bombando #bombando{
+    margin-left: 5px;
+    
+    line-height: 1.25vw;
+    font-size: 1.4vw;
+    margin-top: 2px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.carrossel-bombando .menu{
+    background-color: black;
+    border: none;
+    color: white;
+    padding: 5px 5px;   
+}
+.carrossel-bombando{
+    margin-top: 5px;
+}
+
+/*Minha Lista*/
+.carrossel-minhalista #minhalista{
+    margin-left: 5px;
+    
+    line-height: 1.25vw;
+    font-size: 1.4vw;
+    margin-top: 2px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.carrossel-minhalista .menu{
+    background-color: black;
+    border: none;
+    color: white;
+    padding: 5px 5px;   
+}
+.carrossel-minhalista{
+    margin-top: 5px;
 }
 
 /* FOOTER */
